@@ -24,5 +24,5 @@ let makeCommit=(n)=>{
 
 }
 //change for commit
-
+//remove this  line by using git revert --hard HEADq
 makeCommit();
