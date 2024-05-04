@@ -24,5 +24,6 @@ let makeCommit=(n)=>{
 
 }
 //change for commit
+//this change should be removed after revert commit
 
 makeCommit();
